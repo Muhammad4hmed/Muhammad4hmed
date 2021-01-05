@@ -8,3 +8,6 @@
 - 🤔 In a fight between pytorch and tensorflow, you will find me standing with pytorch 😂
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammad4hmed/">Linkedin</a>
 - ⚡ I'm making my code base, you can find it here: http://gist.github.com/Muhammad4hmed (Under construction 😂)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad4hmed)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad4hmed&repo=GML)](https://github.com/Muhammad4hmed/GML)
