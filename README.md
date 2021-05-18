@@ -2,7 +2,7 @@
 
 - 🔭 Currently working as a SDE intern, Machine Learning and Computer Vision at <a href="https://Retrocausal.ai">Retrocausal.AI</a>
 - 🌱 Currently learning Data Science, Machine Learning and Deep Learning.
-- 🏆 Winner & Top ranks in 16 competitions/hackathons (Goal: 20 before graduation).
+- 🏆 Winner & Top ranks in 18 competitions/hackathons (Goal: 20 before graduation).
 - <img width=20 height=20 src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png"> Ranked Competitons Expert on Kaggle 😎 <a href = "https://www.kaggle.com/muhammad4hmed">Kaggle Profile</a>
 - 👯 Always up to collaborate in Kaggle Competitions.
 - 🤔 In a fight between pytorch and tensorflow, you will find me standing with pytorch 😂
